@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+}
+
+#excursion {
+    color: grey;
+    font-size: 21px;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
